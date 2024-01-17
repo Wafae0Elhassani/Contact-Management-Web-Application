@@ -1,0 +1,1 @@
+An application for managing contacts using Spring Boot, Thymeleaf, and MariaDB for database management allows the user to organize their contacts and contact groups. The application involves two main entities: contacts and contact groups.
